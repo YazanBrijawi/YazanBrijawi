@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>👋 Hi, I'm Yazan Brijawi</h1>
-<h3>💻 Aspiring Full-Stack Developer | Competitive Programmer</h3>
+<h3>💻 C++ Developer | Competitive Programmer</h3>
 
 <p>
 Second-year IT student passionate about competitive programming and problem-solving on Codeforces and LeetCode.<br>
